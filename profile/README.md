@@ -1,5 +1,3 @@
-![logo.png](../images/logo.png)
-
 StudyAlign is an open-source software system for setting up online user studies to evaluate web prototypes, such as interactive prototypes with AI features. It simplifies implementing experiment procedures, integration of questionnaires, and data logging. It has a focus on studies in the field of Human-Computer Interaction and human-AI interaction studies
 since these studies have been prototyped with web technologies lately.
 
