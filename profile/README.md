@@ -6,8 +6,7 @@ since these studies have been prototyped with web technologies lately.
 StudyAlign streamlines HCI online studies and has enabled several studies.
 
 You can find detailed information about the system in our paper `StudyAlign: A Software System for Conducting Web-Based
-User Studies with Functional Interactive Prototypes` arXiv:  ACM DL: https://doi.org/10.1145/3733053
-
+User Studies with Functional Interactive Prototypes` arXiv: https://arxiv.org/abs/2505.13046 | ACM DL (coming soon): https://doi.org/10.1145/3733053
 
 ## Key Features
 
@@ -42,4 +41,23 @@ We identified this as a challenge to provide a foundation for implementing metho
 
 StudyAlign allows researchers to focus on designing, developing, and studying interactions since the research methods implemented in our system can be reused across studies. Moreover, we support the vision of allowing researchers to share their study design and enable replication.
 
+## Citation
+
+You can cite StudyAlign as follows:
+```
+Lehmann, Florian and Buschek, Daniel (2025). StudyAlign: A Software System for Conducting Web-Based User Studies with Functional Interactive Prototypes.
+https://arxiv.org/abs/2505.13046
+```
+
+arXiv bibtex reference:
+```
+@misc{lehmann2025studyalign,
+    title={StudyAlign: A Software System for Conducting Web-Based User Studies with Functional Interactive Prototypes},
+    author={Florian Lehmann and Daniel Buschek},
+    year={2025},
+    eprint={2505.13046},
+    archivePrefix={arXiv},
+    primaryClass={cs.HC}
+}
+```
 
